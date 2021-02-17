@@ -1,6 +1,6 @@
-#### Hi there 👋, my name is Jared
-##### Im a student at Platzi
-![Im a student at Platzi](https://images.pexels.com/photos/6804613/pexels-photo-6804613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+### Hi there 👋, my name is Jared
+#### Im a student at Platzi
+![Im a student at Platzi](https://github.com/Jared-Nava/Jared-Nava/blob/master/pexels-photo-6804613.jpeg)
 
 Spanish native / English A1
 
