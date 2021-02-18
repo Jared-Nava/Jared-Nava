@@ -1,18 +1,17 @@
-### Hi there 👋, my name is Jared
-#### Im a student at <img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/platzi%20icon.png' alt='Platzi' height='40'>
+## Hi there 👋, my name is Jared
+### Im a student at <img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/platzi%20icon.png' alt='Platzi' height='25'>
+#### Spanish native / English A1
 
-https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/pexels-photo-6804613.jpeg
-
-Spanish native / English A1
+<img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/pexels-photo-6804613.jpeg' alt='banner'>
 
 ### Languages
-<img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/html%20css3%20icon.png' alt='HTML5 - CSS3' height='40'>
+<img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/html%20css3%20icon.png' alt='HTML5 - CSS3' height='50'>
 
 ### Tools
 <img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/XD%20icon.png' alt='Adobe XD' height='40'>
 
-
-- 🌱 I’m currently learning HTML - CSS / JS 
+______________________________________________
+- 🌱 I’m learning HTML - CSS / JS 
 - 💬 Ask me about hardware for PC 
 - ⚡ Fun fact: I'm good at creating some hypothetical and unusual problems for the next time 
 
