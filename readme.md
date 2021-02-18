@@ -15,6 +15,10 @@ Skills: UI design / Adobe XD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Nava)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ulQikuTZ4zI
+" target="_blank"><img src="http://img.youtube.com/vi/ulQikuTZ4zI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 Want to create a GitHut profile like this?😀
 Visit -->https://arturssmirnovs.github.io/github-profile-readme-generator/
 <!--
