@@ -17,7 +17,7 @@ Skills: UI design / Adobe XD
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ulQikuTZ4zI
 " target="_blank"><img src="http://img.youtube.com/vi/ulQikuTZ4zI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="30%" height= auto border="1" /></a>
 
 Want to create a GitHut profile like this?😀
 Visit -->https://arturssmirnovs.github.io/github-profile-readme-generator/
