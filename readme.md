@@ -1,13 +1,15 @@
 ### Hi there 👋, my name is Jared
-#### Im a student at [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Platzi' height='40'>]
-(https://github.com/Jared-Nava/Jared-Nava/blob/master/pexels-photo-6804613.jpeg)
+#### Im a student at <img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/platzi%20icon.png' alt='Platzi' height='40'>
+
+https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/pexels-photo-6804613.jpeg
 
 Spanish native / English A1
 
 ### Languages
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='HTML5' height='40'>][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='CSS3' height='40'>]
+<img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/html%20css3%20icon.png' alt='HTML5 - CSS3' height='40'>
+
 ### Tools
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Adobe XD' height='40'>]
+<img src='https://github.com/Jared-Nava/Jared-Nava/blob/master/sources/XD%20icon.png' alt='Adobe XD' height='40'>
 
 
 - 🌱 I’m currently learning HTML - CSS / JS 
@@ -21,7 +23,7 @@ Spanish native / English A1
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ulQikuTZ4zI
 " target="_blank"><img src="http://img.youtube.com/vi/ulQikuTZ4zI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="350" height= 225 border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="350" height= 225/></a>
 
 Want to create a GitHub profile like this?
 Visit -->https://arturssmirnovs.github.io/github-profile-readme-generator/
